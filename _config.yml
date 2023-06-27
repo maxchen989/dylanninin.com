@@ -10,6 +10,7 @@ highlighter: rouge
 #
 title : Pastime Paradise
 tagline: Site Tagline
+repo: dylanninin.com
 author :
   name : dylanninin
   email : dylanninin@gmail.com
@@ -69,13 +70,13 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
+  archive_path: repo/archive.html
+  categories_path : repo/categories.html
+  tags_path : repo/tags.html
   #atom_path : /atom.xml
-  rss_path : /rss.xml
-  about_path : /about.md
-  links_path : /links.md
+  rss_path : repo/rss.xml
+  about_path : repo/about.md
+  links_path : repo/links.md
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
