@@ -6,7 +6,7 @@ import requests
 # see https://pygithub.readthedocs.io/en/latest/examples.html
 from github import Github
 
-BLOG_BASE = os.environ.get('BLOG_BASE') or 'https://maxwellbest.github.io/dylanninin.com/'
+BLOG_BASE = os.environ.get('BLOG_BASE') or '/dylanninin.com'
 GITHUB_TOKEN = os.environ.get('GH_PAT')
 IMAGE_DEST = 'assets/images/issues'
 IMAGE_EXT = '.png'
