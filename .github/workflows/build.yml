@@ -50,8 +50,8 @@ jobs:
     - name: Auto Commit
       id: auto-commit
       run: |
-        git config --global user.email "dylanninin@gmail.com"
-        git config --global user.name "Dylanninin"
+        git config --global user.email "bart30508@gmail.com"
+        git config --global user.name "bart30508"
         if [[ `git status --porcelain` ]]; then
           git add .
           git commit -m "update post - skip ci"
