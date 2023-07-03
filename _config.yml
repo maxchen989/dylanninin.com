@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Pastime Paradise
-tagline: Site Tagline
+title : Max 文藝復興
+tagline: Science is the captain, and practice the soldiers. ──Leonardo di ser Piero da Vinci
 author :
-  name : dylanninin
-  email : dylanninin@gmail.com
-  github : dylanninin
+  name : Max Chen
+  email : bart30508@gmail.com
+  github : MaxwellBest
   twitter : dylanninin
   feedburner : github/VYqH
 
@@ -76,10 +76,10 @@ JB :
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
-  #atom_path : /atom.xml
-  rss_path : /rss.xml
+  # atom_path : /atom.xml
+  # rss_path : /rss.xml
   about_path : /about.md
-  links_path : /links.md
+  # links_path : /links.md
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
@@ -88,7 +88,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : dylanninin
+      short_name : maxchennote
   # livefyre :
   #   site_id : 123
   # intensedebate :
