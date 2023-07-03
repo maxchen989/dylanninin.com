@@ -10,4 +10,4 @@ Blog
 Issues
 ---
 
-- [Github as Blog 有兩個地方要設置變數，Secret也要](https://github.com/MaxwellBest/dylanninin.com/issues/2) - 2023-07-02
+- [GitHub Pages As Blog Tips](https://github.com/MaxwellBest/dylanninin.com/issues/3) - 2023-07-03
