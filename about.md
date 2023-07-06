@@ -54,20 +54,16 @@ group: navigation
 - Databricks 開發
 <hr>
 
-## 鏈結
+## 鏈結&聯繫方式
 
-- ![linkedin](http://dylanninin.com/assets/images/me/linkedin.png) [LinkedIn](https://www.linkedin.com/in/dylanninin/)
-- ![twitter](http://dylanninin.com/assets/images/me/twitter.png) [twitter.com](https://twitter.com/dylanninin)
-- ![facebook](http://dylanninin.com/assets/images/me/facebook.png) [facebook.com](https://www.facebook.com/maxchennote)
-- ![github](http://dylanninin.com/assets/images/me/github.png) [github.com](https://github.com/MaxwellBest)
-- ![blog](http://dylanninin.com/assets/images/me/dylanninin.png) [maxchennote.com](https://dylanninin.com)
-- ![slideshare](http://dylanninin.com/assets/images/me/slideshare.png) [SlideShare](https://www.slideshare.net/ssuser5a2aea)
+- ![linkedin](http://maxchennote.com/assets/images/me/linkedin.png) [LinkedIn](https://www.linkedin.com/in/max-chen-04baa7144/)
+- ![facebook](http://maxchennote.com/assets/images/me/facebook.png) [facebook.com](https://www.facebook.com/maxchennote)
+- ![instagram](http://maxchennote.com/assets/images/me/instagram.png) [instagram.com](https://www.instagram.com/maxchennote)
+- ![github](http://maxchennote.com/assets/images/me/github.png) [github.com](https://github.com/MaxwellBest)
+- ![blog](http://maxchennote.com/assets/images/me/dylanninin.png) [maxchennote.com](https://dylanninin.com)
+- ![slideshare](http://maxchennote.com/assets/images/me/slideshare.png) [SlideShare](https://www.slideshare.net/ssuser5a2aea)
+- ![youtube](http://maxchennote.com/assets/images/me/youtube.png) [youtube.com](https://www.youtube.com/channel/UCrI2xlnbm0hpAV-wd3NsHbA)
 
-<hr>
-
-## 聯繫方式
-
-- ![gmail](http://dylanninin.com/assets/images/me/gmail.png)  bart30508 (at) gmail.com
 
 <hr>
 {% include JB/comments %}

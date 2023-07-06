@@ -14,7 +14,6 @@ author :
   name : Max Chen
   email : bart30508@gmail.com
   github : MaxwellBest
-  twitter : dylanninin
   feedburner : github/VYqH
 
 # The production_url is only used when full-domain names are needed
@@ -33,6 +32,7 @@ production_url : https://maxchennote.com/
 # remote_theme: pages-themes/dinky@v0.2.0
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
+# - jekyll-feed
 JB :
   version : 0.3.0
 
@@ -76,8 +76,8 @@ JB :
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
-  # atom_path : /atom.xml
-  # rss_path : /rss.xml
+  atom_path : /atom.xml
+  rss_path : /rss.xml
   about_path : /about.md
   # links_path : /links.md
 
@@ -106,7 +106,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-21870463-1'
+        tracking_id : 'G-CEZ98YHF9Z'
   #getclicky :
   #    site_id :
   #  mixpanel :
