@@ -60,7 +60,7 @@ group: navigation
 - ![facebook](http://maxchennote.com/assets/images/me/facebook.png) [facebook.com](https://www.facebook.com/maxchennote)
 - ![instagram](http://maxchennote.com/assets/images/me/instagram.png) [instagram.com](https://www.instagram.com/maxchennote)
 - ![github](http://maxchennote.com/assets/images/me/github.png) [github.com](https://github.com/MaxwellBest)
-- ![blog](http://maxchennote.com/assets/images/me/dylanninin.png) [maxchennote.com](https://dylanninin.com)
+- ![blog](http://maxchennote.com/assets/images/me/maxchennote.png) [maxchennote.com](https://maxchennote.com)
 - ![slideshare](http://maxchennote.com/assets/images/me/slideshare.png) [SlideShare](https://www.slideshare.net/ssuser5a2aea)
 - ![youtube](http://maxchennote.com/assets/images/me/youtube.png) [youtube.com](https://www.youtube.com/channel/UCrI2xlnbm0hpAV-wd3NsHbA)
 
