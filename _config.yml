@@ -35,6 +35,7 @@ production_url : https://maxchennote.com/
 # - jekyll-feed
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 JB :
   version : 0.3.0
 
