@@ -5,6 +5,7 @@ categories: [Post]
 tags : [post,powershell]
 ---
 
+<<<<<<< HEAD
 以excel為例
 ```
 
@@ -23,4 +24,24 @@ else {
     Write-Host "No Excel processes found."
 }
 
+=======
+以excel為例
+```
+
+# 獲取所有 Excel 進程
+$excelProcesses = Get-Process -Name "excel" -ErrorAction SilentlyContinue
+
+# 终止每個 Excel 進程
+if ($excelProcesses) {
+    foreach ($process in $excelProcesses) {
+        $processID = $process.Id
+        Write-Host "Terminating Excel process with PID: $processID"
+        $process.Kill()
+    }
+}
+else {
+    Write-Host "No Excel processes found."
+}
+
+>>>>>>> 271261ff5873d2ddeb0a869a7b60d5fd4862ed53
 ```
