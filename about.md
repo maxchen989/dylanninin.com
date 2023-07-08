@@ -62,7 +62,7 @@ group: navigation
 - ![github](http://maxchennote.com/assets/images/me/github.png) [github.com](https://github.com/MaxwellBest)
 - ![blog](http://maxchennote.com/assets/images/me/maxchennote.png) [maxchennote.com](https://maxchennote.com)
 - ![slideshare](http://maxchennote.com/assets/images/me/slideshare.png) [SlideShare](https://www.slideshare.net/ssuser5a2aea)
-- ![youtube](http://maxchennote.com/assets/images/me/youtube.png) [youtube.com](https://www.youtube.com/channel/UCrI2xlnbm0hpAV-wd3NsHbA)
+- ![youtube](http://maxchennote.com/assets/images/me/youtube.png) [youtube.com](https://www.youtube.com/channel/UCwEkeH0oP-2M4g6ZqwKXuEQ/)
 
 
 <hr>
