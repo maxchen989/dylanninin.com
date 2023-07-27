@@ -1,3 +1,4 @@
+Blog of [Max 文藝復興](https://maxchennote.com/). Licensed under [CC BY 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/). Copyright © [Max 文藝復興](https://maxchennote.com/).
 
 Blog
 ---
