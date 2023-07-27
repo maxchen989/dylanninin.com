@@ -4,7 +4,7 @@ title: Subscribe
 group: navigation
 ---
 
-由於我的文章都在Blog上發行，訂閱RSS是最好的：
+Blog文章訂閱RSS是最好的：
 
 [RSS連結](https://feeds.feedburner.com/maxchennote/44raKbobVYA)
 
