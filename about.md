@@ -50,7 +50,6 @@ group: navigation
 
 ## 鏈結&聯繫方式
 
-- ![linkedin](http://maxchennote.com/assets/images/me/linkedin.png) [LinkedIn](https://www.linkedin.com/in/max-chen-04baa7144/)
 - ![facebook](http://maxchennote.com/assets/images/me/facebook.png) [facebook.com](https://www.facebook.com/maxchennote)
 - ![instagram](http://maxchennote.com/assets/images/me/instagram.png) [instagram.com](https://www.instagram.com/maxchennote)
 - ![github](http://maxchennote.com/assets/images/me/github.png) [github.com](https://github.com/MaxwellBest)
