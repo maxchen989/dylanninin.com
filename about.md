@@ -50,11 +50,11 @@ group: navigation
 
 ## 鏈結&聯繫方式
 
-- ![facebook](http://maxchennote.com/assets/images/me/facebook.png) [facebook.com](https://www.facebook.com/maxchennote)
-- ![instagram](http://maxchennote.com/assets/images/me/instagram.png) [instagram.com](https://www.instagram.com/maxchennote)
-- ![github](http://maxchennote.com/assets/images/me/github.png) [github.com](https://github.com/MaxwellBest)
+- ![facebook](http://maxchennote.com/assets/images/me/facebook.png) [facebook.com](https://www.facebook.com/maxchen989)
+- ![instagram](http://maxchennote.com/assets/images/me/instagram.png) [instagram.com](https://www.instagram.com/maxchen989)
+- ![github](http://maxchennote.com/assets/images/me/github.png) [github.com](https://github.com/maxchen989)
 - ![blog](http://maxchennote.com/assets/images/me/maxchennote.png) [maxchennote.com](https://maxchennote.com)
-- ![youtube](http://maxchennote.com/assets/images/me/youtube.png) [youtube.com](https://www.youtube.com/channel/UCwEkeH0oP-2M4g6ZqwKXuEQ/)
+- ![youtube](http://maxchennote.com/assets/images/me/youtube.png) [youtube.com](https://www.youtube.com/channel/UCwEkeH0oP-2M4g6ZqwKXuEQ)
 
 
 <hr>
