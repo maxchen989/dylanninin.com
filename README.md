@@ -10,6 +10,7 @@ Blog
 Issues
 ---
 
+- [如果能打造出一個自動完成一些事情的ai那就很有價值了。](https://github.com/maxchen989/dylanninin.com/issues/302) - 2024-02-28
 - [我希望透過資訊科技幫助人們解決任何無效率的事](https://github.com/maxchen989/dylanninin.com/issues/299) - 2024-02-15
 - [老年人與年輕人不應該要有對立，就像公司與顧客，公司與員工也不應該有對立。](https://github.com/maxchen989/dylanninin.com/issues/298) - 2024-01-20
 - [A workaround of Complex Power BI Desktop is So Slow When Developing [Power BI]](https://github.com/maxchen989/dylanninin.com/issues/287) - 2023-07-07
