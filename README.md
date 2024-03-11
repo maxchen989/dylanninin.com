@@ -10,6 +10,7 @@ Blog
 Issues
 ---
 
+- [Day2 Office Plugin 四種開發方法](https://github.com/maxchen989/dylanninin.com/issues/304) - 2024-03-11
 - [Day1 怎麼開發Microsoft 365？加入Microsoft 365 Developer Program - You don't current qualify for a Microsoft 365 Developer Program sandbox subscription](https://github.com/maxchen989/dylanninin.com/issues/303) - 2024-02-28
 - [如果能打造出一個自動完成一些事情的ai那就很有價值了。](https://github.com/maxchen989/dylanninin.com/issues/302) - 2024-02-28
 - [我希望透過資訊科技幫助人們解決任何無效率的事](https://github.com/maxchen989/dylanninin.com/issues/299) - 2024-02-15
