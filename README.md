@@ -10,7 +10,7 @@ Blog
 Issues
 ---
 
-- [Day1 怎麼開發入Microsoft 365？加入Microsoft 365 Developer Program - You don't current qualify for a Microsoft 365 Developer Program sandbox subscription](https://github.com/maxchen989/dylanninin.com/issues/303) - 2024-02-28
+- [Day1 怎麼開發Microsoft 365？加入Microsoft 365 Developer Program - You don't current qualify for a Microsoft 365 Developer Program sandbox subscription](https://github.com/maxchen989/dylanninin.com/issues/303) - 2024-02-28
 - [如果能打造出一個自動完成一些事情的ai那就很有價值了。](https://github.com/maxchen989/dylanninin.com/issues/302) - 2024-02-28
 - [我希望透過資訊科技幫助人們解決任何無效率的事](https://github.com/maxchen989/dylanninin.com/issues/299) - 2024-02-15
 - [老年人與年輕人不應該要有對立，就像公司與顧客，公司與員工也不應該有對立。](https://github.com/maxchen989/dylanninin.com/issues/298) - 2024-01-20
