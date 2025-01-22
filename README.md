@@ -10,6 +10,7 @@ Blog
 Issues
 ---
 
+- [我喜歡做解決方案，而且要有用。](https://github.com/maxchen989/dylanninin.com/issues/308) - 2025-01-22
 - [數據分析的信心：數據只是基礎事實，視覺化只是讓我們更認識到背後的事實，AI也是如此。解釋才是信心的來源。| 數據分析](https://github.com/maxchen989/dylanninin.com/issues/306) - 2024-11-25
 - [Day3 Visual Studio 開發及部屬第一個Excel Add-ins](https://github.com/maxchen989/dylanninin.com/issues/305) - 2024-03-13
 - [Day2 Office Plugin 四種開發方法](https://github.com/maxchen989/dylanninin.com/issues/304) - 2024-03-11
