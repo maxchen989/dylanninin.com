@@ -10,6 +10,7 @@ Blog
 Issues
 ---
 
+- [聰明人如果沒有檢查清單，還是不會成功。](https://github.com/maxchen989/dylanninin.com/issues/310) - 2025-01-24
 - [做新項目的時候最重要的不是技術，而是目標客群是誰?  3W+1H 在加 1W](https://github.com/maxchen989/dylanninin.com/issues/309) - 2025-01-23
 - [我喜歡做解決方案，而且要有用。](https://github.com/maxchen989/dylanninin.com/issues/308) - 2025-01-22
 - [數據分析的信心：數據只是基礎事實，視覺化只是讓我們更認識到背後的事實，AI也是如此。解釋才是信心的來源。| 數據分析](https://github.com/maxchen989/dylanninin.com/issues/306) - 2024-11-25
