@@ -10,6 +10,7 @@ Blog
 Issues
 ---
 
+- [認錯就可以溝通](https://github.com/maxchen989/dylanninin.com/issues/311) - 2025-06-10
 - [聰明人如果沒有檢查清單，還是不會成功。](https://github.com/maxchen989/dylanninin.com/issues/310) - 2025-01-24
 - [做新項目的時候最重要的不是技術，而是目標客群是誰?  3W+1H 在加 1W](https://github.com/maxchen989/dylanninin.com/issues/309) - 2025-01-23
 - [我喜歡做解決方案，而且要有用。](https://github.com/maxchen989/dylanninin.com/issues/308) - 2025-01-22
