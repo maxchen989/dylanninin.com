@@ -10,6 +10,7 @@ Blog
 Issues
 ---
 
+- [向量相乘的前提是前一個矩陣的「列數」（Columns）必須等於後一個矩陣的「行數」（Rows），否則皆不成立，為什麼？矩陣相乘為什˙麼跟向量內積是Duality？](https://github.com/maxchen989/dylanninin.com/issues/316) - 2025-12-31
 - [數值資料有哪些](https://github.com/maxchen989/dylanninin.com/issues/315) - 2025-12-31
 - [SQL is not Objective Oriented Programming, so the best test is integration testing but not unit test](https://github.com/maxchen989/dylanninin.com/issues/312) - 2025-06-17
 - [認錯就可以溝通](https://github.com/maxchen989/dylanninin.com/issues/311) - 2025-06-10
