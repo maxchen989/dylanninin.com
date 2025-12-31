@@ -10,6 +10,7 @@ Blog
 Issues
 ---
 
+- [數值資料有哪些](https://github.com/maxchen989/dylanninin.com/issues/315) - 2025-12-31
 - [SQL is not Objective Oriented Programming, so the best test is integration testing but not unit test](https://github.com/maxchen989/dylanninin.com/issues/312) - 2025-06-17
 - [認錯就可以溝通](https://github.com/maxchen989/dylanninin.com/issues/311) - 2025-06-10
 - [聰明人如果沒有檢查清單，還是不會成功。](https://github.com/maxchen989/dylanninin.com/issues/310) - 2025-01-24
