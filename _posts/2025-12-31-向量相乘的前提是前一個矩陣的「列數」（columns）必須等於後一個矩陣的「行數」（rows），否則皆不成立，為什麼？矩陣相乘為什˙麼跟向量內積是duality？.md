@@ -6,7 +6,7 @@ tags : [post,math]
 ---
 
 
-
+<img width="179" height="122" alt="Image" src="/maxchennote.com/assets/images/issues/e604a4af-0ea5-45a2-a51b-30ae38d39b55.png" />
 <img width="179" height="122" alt="Image" src="/maxchennote.com/assets/images/issues/e604a4af-0ea5-45a2-a51b-30ae38d39b55.png" />
 
 向量（或矩陣）相乘的前提是：前一個矩陣的「列數」（Columns）必須等於後一個矩陣的「行數」（Rows）。
